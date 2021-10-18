@@ -1,4 +1,18 @@
-# Needham-Schroeder Protocol
+# NS Assignment Needham-Schroeder Protocol
+
+## Group 24
+
+Naina Kumari-IIT2019004
+
+Pavika Chaudhary-IIT2019011
+
+Shruti Nanda-IIT2019017
+
+Gitika Yadav-IIT20190219
+
+Noonsavath Sravana Samyukta-IIT2019236
+
+Mrityunjay Tiwari-IIT2019239
 
 ## Cloning
 This repo relies on two submodules that I wrote, UDP-Server and DES, so you must be sure to clone the submodules as well. There are two options:
