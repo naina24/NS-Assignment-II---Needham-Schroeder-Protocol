@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdes.a CMakeFiles/des.dir/des_cipher.cc.o
+/usr/bin/ranlib libdes.a

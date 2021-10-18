@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/thor.dir/thor.cc.o -o thor  modules/DES/libdes.a modules/UDP-Server/libudp.a 

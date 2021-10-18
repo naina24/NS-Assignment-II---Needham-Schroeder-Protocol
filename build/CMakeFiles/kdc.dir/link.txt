@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/kdc.dir/key_distribution_center.cc.o -o kdc  modules/DES/libdes.a modules/UDP-Server/libudp.a 
